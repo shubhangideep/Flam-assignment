@@ -14,7 +14,7 @@ I implemented a Least Recently Used (LRU) Cache using:
 
 The idea is to keep recently used data in memory and remove the least used one when full.
 
-### File: `MainQ1.java`
+### File: `Main.java`
 
 ---
 
@@ -34,5 +34,5 @@ I used:
 1. Compile the file using:
 
 ```bash
-javac MainQ1.java
+javac Main.java
 javac MainQ2.java
